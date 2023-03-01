@@ -18,7 +18,7 @@ const AppRouter = () => {
                         key={route.path}
                     />
                 )}
-                <Redirect to='/'/>
+                <Redirect to='/Candles'/>
             </Switch>
             :
             <Switch>

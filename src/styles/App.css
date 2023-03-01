@@ -11,4 +11,5 @@ body{
     display: flex;
     justify-content: center;
     overflow-x:auto;
+    min-height: 100%;
 }

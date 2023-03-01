@@ -1,5 +1,8 @@
 .footer_container{
-    max-width: 2000px;
+    /* max-width: 2000px; */
+    position: absolute;
+    bottom: 1px;
+    width: 100%;
     background-color: rgb(0, 0, 0);
     padding-top: 10px;
 }
@@ -38,7 +41,7 @@
 }
 
 .contact{
-    margin-right: 30px;
+    margin-right: 50px;
 
 }
 .contact p {

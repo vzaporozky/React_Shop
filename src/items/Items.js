@@ -1,0 +1,148 @@
+const arrayCandles = [
+    { 
+        name: 'first',
+        img: './images/candles/1.jpg',
+        id: 1,
+        describe: 'First candidate emmetemmetem emmet metemmetemmetemmet',
+    },
+    { 
+        name: 'second',
+        img: './images/candles/2.jpg',
+        id: 2,
+        describe: 'First candidate emmetemmetem emmet metemmetemmetemmet',
+    },
+    { 
+        name: 'third',
+        img: './images/candles/3.jpg',
+        id: 3,
+        describe: 'First candidate emmetemmetem emmet metemmetemmetemmet',
+    },
+    { 
+        name: 'fourth',
+        img: './images/candles/4.jpg',
+        id: 4,
+        describe: 'First candidate emmetemmetem emmet metemmetemmetemmet',
+    },
+    { 
+        name: 'fifth',
+        img: './images/candles/5.jpg',
+        id: 5,
+        describe: 'First candidate emmetemmetem emmet metemmetemmetemmet',
+    },
+    { 
+        name: 'sixth',
+        img: './images/candles/6.jpg',
+        id: 6,
+        describe: 'First candidate emmetemmetem emmet metemmetemmetemmet',
+    },
+    { 
+        name: 'seventh',
+        img: './images/candles/7.jpg',
+        id: 7,
+        describe: 'First candidate emmetemmetem emmet metemmetemmetemmet',
+    },
+    { 
+        name: 'eighth',
+        img: './images/candles/8.jpg',
+        id: 8,
+        describe: 'First candidate emmetemmetem emmet metemmetemmetemmet',
+    },
+    { 
+        name: 'first',
+        img: './images/candles/1.jpg',
+        id: 1,
+        describe: 'First candidate emmetemmetem emmet metemmetemmetemmet',
+    },
+    { 
+        name: 'second',
+        img: './images/candles/2.jpg',
+        id: 2,
+        describe: 'First candidate emmetemmetem emmet metemmetemmetemmet',
+    },
+    { 
+        name: 'third',
+        img: './images/candles/3.jpg',
+        id: 3,
+        describe: 'First candidate emmetemmetem emmet metemmetemmetemmet',
+    },
+    { 
+        name: 'fourth',
+        img: './images/candles/4.jpg',
+        id: 4,
+        describe: 'First candidate emmetemmetem emmet metemmetemmetemmet',
+    },
+    { 
+        name: 'fifth',
+        img: './images/candles/5.jpg',
+        id: 5,
+        describe: 'First candidate emmetemmetem emmet metemmetemmetemmet',
+    },
+    { 
+        name: 'sixth',
+        img: './images/candles/6.jpg',
+        id: 6,
+        describe: 'First candidate emmetemmetem emmet metemmetemmetemmet',
+    },
+    { 
+        name: 'seventh',
+        img: './images/candles/7.jpg',
+        id: 7,
+        describe: 'First candidate emmetemmetem emmet metemmetemmetemmet',
+    },
+    { 
+        name: 'eighth',
+        img: './images/candles/8.jpg',
+        id: 8,
+        describe: 'First candidate emmetemmetem emmet metemmetemmetemmet',
+    },
+    { 
+        name: 'first',
+        img: './images/candles/1.jpg',
+        id: 1,
+        describe: 'First candidate emmetemmetem emmet metemmetemmetemmet',
+    },
+    { 
+        name: 'second',
+        img: './images/candles/2.jpg',
+        id: 2,
+        describe: 'First candidate emmetemmetem emmet metemmetemmetemmet',
+    },
+    { 
+        name: 'third',
+        img: './images/candles/3.jpg',
+        id: 3,
+        describe: 'First candidate emmetemmetem emmet metemmetemmetemmet',
+    },
+    { 
+        name: 'fourth',
+        img: './images/candles/4.jpg',
+        id: 4,
+        describe: 'First candidate emmetemmetem emmet metemmetemmetemmet',
+    },
+    { 
+        name: 'fifth',
+        img: './images/candles/5.jpg',
+        id: 5,
+        describe: 'First candidate emmetemmetem emmet metemmetemmetemmet',
+    },
+    { 
+        name: 'sixth',
+        img: './images/candles/6.jpg',
+        id: 6,
+        describe: 'First candidate emmetemmetem emmet metemmetemmetemmet',
+    },
+    { 
+        name: 'seventh',
+        img: './images/candles/7.jpg',
+        id: 7,
+        describe: 'First candidate emmetemmetem emmet metemmetemmetemmet',
+    },
+    { 
+        name: 'eighth',
+        img: './images/candles/8.jpg',
+        id: 8,
+        describe: 'First candidate emmetemmetem emmet metemmetemmetemmet',
+    },
+];
+
+export default arrayCandles;
