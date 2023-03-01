@@ -1,9 +1,10 @@
 import React, {useEffect, useState} from 'react';
 import {BrowserRouter} from "react-router-dom";
 import './styles/App.css';
-// import Navbar from "./components/UI/Navbar/Navbar";
+import Navbar from "./components/UI/Navbar/Navbar";
 import AppRouter from "./components/AppRouter";
 import {AuthContext} from "./context";
+import Footer from './components/UI/Footer/Footer';
 
 function App() {
     const [isAuth, setIsAuth] = useState(false);
@@ -19,8 +20,9 @@ function App() {
             setIsAuth
         }}>
             <BrowserRouter>
-                {/* <Navbar toggleTheme={toggleTheme} theme={theme}/> */}
+                <Navbar/>
                 <AppRouter/>
+                <Footer/>
             </BrowserRouter>
         </AuthContext.Provider>
     );
